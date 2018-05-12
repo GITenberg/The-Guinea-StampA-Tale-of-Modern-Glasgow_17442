@@ -1,0 +1,32 @@
+_repo: The-Guinea-StampA-Tale-of-Modern-Glasgow_17442
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swan, Annie S.
+    aliases:
+    - Burnett-Smith, A. (Annie)
+    - Smith, Annie S.
+    - Smith, Burnett, Mrs.
+    - Lyall, David
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '4770'
+    url: http://www.gutenberg.org/2009/agents/4770
+    wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Glasgow (Scotland) -- Fiction'
+title: 'The Guinea Stamp: A Tale of Modern Glasgow'
+url: http://www.gutenberg.org/ebooks/17442
